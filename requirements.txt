@@ -2,3 +2,4 @@ transformers
 tensorflow
 sentencepiece
 streamlit
+tf-keras
