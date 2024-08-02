@@ -1,4 +1,5 @@
 streamlit
+sacremoses
 transformers==4.30.0
 tensorflow==2.12.0
 sentencepiece
